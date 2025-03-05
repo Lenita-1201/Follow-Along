@@ -1,7 +1,5 @@
 # Follow-Along
 
-# E-Commerce Application: Milestone 1
-
 Welcome to the Follow Along Project: Milestone 1! This project marks the beginning of an exciting journey to build a full-fledged E-Commerce Application from scratch using the MERN stack (MongoDB, Express.js, React.js, and Node.js).
 
 ---
