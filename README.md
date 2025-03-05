@@ -197,3 +197,5 @@ In this Milestone,
 Create and backend endpoint that will send all the user data using mail.
 Create an frontend profile page that will display all the user data.
 Display profile photo, name, mail and addresses.
+
+---
